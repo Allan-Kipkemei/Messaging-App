@@ -3,10 +3,6 @@
 Messaging app is an instant messaging fullstack web app using web sockets using socket io
 
 
-<p align="center">
-    <img src="https://riyadh-dev.github.io/portfolio-website-react/images/messaging-app/4.png" width="90%"/>
-<p>
-
 **Live preview:**
 
 -   [Railway](https://messaging-app.up.railway.app)
