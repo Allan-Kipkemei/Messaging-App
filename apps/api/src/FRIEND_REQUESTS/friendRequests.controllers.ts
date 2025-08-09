@@ -11,7 +11,7 @@ const sendFriendRequestUnsafe: IAsyncRequestHandler = async (req, res) => {
 		req.params.friendId
 	)
 	if (error) {
-		res.status(400).json({ error: 'invalid user id' })
+		res.status(400).json({ error: 'invalid user identity' })
 		return
 	}
 	if (userId === friendId) {
