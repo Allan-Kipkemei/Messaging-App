@@ -1,6 +1,7 @@
 # <img src="./apps/web/public/logo.png" width="24"/> Messaging app
 
-Messaging app is an instant messaging fullstack web app using web sockets
+Messaging app is an instant messaging fullstack web app using web sockets using socket io
+
 
 <p align="center">
     <img src="https://riyadh-dev.github.io/portfolio-website-react/images/messaging-app/4.png" width="90%"/>
